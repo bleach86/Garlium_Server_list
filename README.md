@@ -19,6 +19,7 @@ On windows:
     
     
 On Linux/Mac:
+
     Navigate to ~/.garlium
     Replace recent_servers with the one from this repo.
     Restart Garlium 
