@@ -12,7 +12,7 @@ On windows:
 
     %appdata%\roaming\garlium
     
-    Delete the current recent_servers file and replace the one from this repo.
+    Delete the current recent_servers file and replace it with the one from this repo.
     
     restart Garlium
     Enjoy!
